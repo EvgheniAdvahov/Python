@@ -6,3 +6,4 @@ two = 2
 while power < num:
     print(two**power, power)
     power += 1
+

@@ -10,3 +10,4 @@ x1 = (sum + D)/2
 x2 = (sum -D)/2
 
 print(x1,x2)
+
